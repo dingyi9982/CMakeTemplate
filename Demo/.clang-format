@@ -1,0 +1,15 @@
+Language: Cpp
+BasedOnStyle: Google
+AccessModifierOffset: '-2'
+AlignTrailingComments: 'true'
+AllowAllParametersOfDeclarationOnNextLine: 'false'
+AlwaysBreakTemplateDeclarations: 'false'
+BreakBeforeBraces: Attach
+ColumnLimit: '120'
+ConstructorInitializerAllOnOneLineOrOnePerLine: 'true'
+IndentWidth: '2'
+NamespaceIndentation: All
+BreakBeforeBinaryOperators: All
+BreakBeforeTernaryOperators: 'true'
+DerivePointerAlignment: false
+PointerAlignment: Left
